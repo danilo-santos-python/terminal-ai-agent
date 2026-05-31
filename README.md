@@ -90,7 +90,6 @@ Utilização de ambiente virtual e bibliotecas especializadas para construção 
 │
 ├── ia_terminal.py      # Aplicação principal
 ├── .env.example        # Modelo de configuração
-├── .gitignore          # Arquivos ignorados pelo Git
 ├── requirements.txt    # Dependências do projeto
 ├── preview.png         # Captura de tela da aplicação
 ├── LICENSE             # Licença MIT
