@@ -210,9 +210,10 @@ Este projeto é open source e pode ser utilizado livremente para fins educaciona
 
 ### 👨‍💻 Autor
 
-**Danilo Santos**  
-🐙 GitHub: https://github.com/danilo-santosdev 
-🌐 Repositório: https://github.com/danilo-santosdev/terminal-ai-agent 
+**Danilo Santos**
+
+- 🐙 GitHub: https://github.com/danilo-santosdev 
+- 🌐 Repositório: https://github.com/danilo-santosdev/terminal-ai-agent 
 
 ---
 
