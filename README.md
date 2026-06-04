@@ -125,7 +125,7 @@ A cada interação, o histórico da conversa é enviado ao modelo, permitindo re
 ### 1. Clone o repositório
 
 ```bash
-git clone git https://github.com/danilo-santos-python/terminal-ai-agent.git
+git clone git https://github.com/danilo-santosdev/terminal-ai-agent.git
 ```
 
 ### 2. Entre no diretório
@@ -211,8 +211,8 @@ Este projeto é open source e pode ser utilizado livremente para fins educaciona
 ### 👨‍💻 Autor
 
 **Danilo Santos**  
-🐙 GitHub: https://github.com/danilo-santos-python  
-🌐 Repositório: https://github.com/danilo-santos-python/terminal-ai-agent
+🐙 GitHub: https://github.com/danilo-santosdev
+🌐 Repositório: https://github.com/danilo-santosdev/terminal-ai-agent
 
 ---
 
